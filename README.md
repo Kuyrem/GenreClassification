@@ -1,0 +1,1 @@
+The data required to run the project can be found at https://github.com/mdeff/fma. Medium data and genre csv are used. 
